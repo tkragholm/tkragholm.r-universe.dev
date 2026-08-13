@@ -1,0 +1,12 @@
+[
+  {
+    "package": "fastsas",
+    "url": "https://github.com/tkragholm/sas7bdat-parser-rs",
+    "subdir": "crates/r-plugin"
+  },
+  {
+    "package": "fastsasconvert",
+    "url": "https://github.com/tkragholm/sas7bdat-parser-rs",
+    "subdir": "crates/r-convert-plugin"
+  }
+]
